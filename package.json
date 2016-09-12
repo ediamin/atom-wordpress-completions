@@ -1,0 +1,12 @@
+{
+  "name": "atom-wordpress-completions",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Collection of all wordpress functions for atom",
+  "repository": "https://github.com/ediamin/atom-wordpress-completions",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
